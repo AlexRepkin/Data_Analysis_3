@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Suzuki",
+        "surname": "Satoru",
+        "telephone": "40000000004",
+        "birthday": "07.07.2015"
+    },
+    {
+        "name": "Alebrije",
+        "surname": "Wisdom",
+        "telephone": "99999999999",
+        "birthday": "01.11.2007"
+    },
+    {
+        "name": "Angus",
+        "surname": "Bambi",
+        "telephone": "30403040304",
+        "birthday": "14.06.2011"
+    }
+]
